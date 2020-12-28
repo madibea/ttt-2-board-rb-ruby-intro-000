@@ -1,9 +1,9 @@
-board = row
+board = row 0, row 1, row 2
 
 row = [" ", " ", " "]
 
-puts row [0]
+row [0]
 
-puts row [1]
+row [1]
 
-puts row [2]
+row [2]
