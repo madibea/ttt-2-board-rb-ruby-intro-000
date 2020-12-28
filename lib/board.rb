@@ -1,1 +1,8 @@
-# Define the variable board below.
+board = row
+row = [" ", " ", " "]
+
+row [0]
+
+row [1]
+
+row [2]
