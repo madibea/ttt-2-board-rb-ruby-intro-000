@@ -1,4 +1,5 @@
 board = row
+
 row = [" ", " ", " "]
 
 puts row [0]
